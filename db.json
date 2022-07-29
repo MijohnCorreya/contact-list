@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Jeena",
+      "email": "jeena@gmail.com",
+      "phone": "8547989969",
+      "id": 1658129659740,
+      "fav": false
+    },
+    {
+      "name": "Mijohn",
+      "email": "mijohncorreya@gmail.com",
+      "phone": "+919895423423",
+      "id": 1658129780738,
+      "fav": true
+    },
+    {
+      "name": "Binoy",
+      "email": "binoy@gmail.com",
+      "phone": "9995671789",
+      "id": 1658129800334,
+      "fav": false
+    }
+  ]
+}
